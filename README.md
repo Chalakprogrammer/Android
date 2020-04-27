@@ -1,5 +1,3 @@
-<p align="center"><img src="http://i67.tinypic.com/2ij1d2r.jpg"></p>
-
 FrameImageView
 =================
 [ ![Download](https://api.bintray.com/packages/jjhesk/maven/frame-imageview/images/download.svg) ](https://bintray.com/jjhesk/maven/frame-imageview/_latestVersion)
